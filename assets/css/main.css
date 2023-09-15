@@ -1792,9 +1792,9 @@ input, select, textarea {
 			}
 
 		header.major > p {
-			font-size: 0.75em;
+			font-size: 0.8em;
 			font-weight: 600;
-			letter-spacing: 0.15em;
+			letter-spacing: 0.1em;
 			margin-bottom: 0;
 			text-transform: none;
 		}
@@ -3474,9 +3474,9 @@ input, select, textarea {
 				}
 
 				#banner > .inner .content p {
-					font-size: 0.75em;
+					font-size: 0.8em;
 					font-weight: 600;
-					letter-spacing: 0.15em;
+					letter-spacing: 0.1em;
 					text-transform: none;
 				}
 
